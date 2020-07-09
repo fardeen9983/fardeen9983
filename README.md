@@ -18,11 +18,13 @@ Hi, I'm Fardeen Khan. Pleasure to have your attention. I am a Freelance Software
 * Medium: https://medium.com/@khanfardeen9983
 * YouTube: https://www.youtube.com/channel/UCDEMPuIi4RJCc8wnGxO-zEw
 
-|<a href="https://dev.to/dev_delight">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Fardeen Khan's DEV Profile" height="45" width="45">
-</a>|<a href="https://dev.to/dev_delight">
-  <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/medium-seeklogo.com.svg" alt="Fardeen Khan's DEV Profile" height="45" width="45">
-</a>|
+<a href="https://dev.to/dev_delight">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="My DEV Profile" height="45" width="45">
+</a><a href="https://medium.com/@khanfardeen9983">
+  <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/medium-seeklogo.com.svg" alt="My Medium Profile" height="45" width="45">
+</a><a href="https://twitter.com/dev_delight">
+  <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/twitter.svg" alt="MyTwitter Profile" height="45" width="45">
+</a>
 
 
 
