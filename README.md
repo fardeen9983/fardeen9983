@@ -13,10 +13,6 @@ Hi, I'm Fardeen Khan. Pleasure to have your attention. I am a Freelance Software
 
 
 ## Interact here
-* LinkedIn: 
-* YouTube: 
-
-
 <a href="https://www.youtube.com/channel/UCDEMPuIi4RJCc8wnGxO-zEw">
   <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/youtube.svg" alt="My Youtube Channel" height="45" width="45">
 </a><a href="https://dev.to/dev_delight">
