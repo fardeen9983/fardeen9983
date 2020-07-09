@@ -13,15 +13,15 @@ Hi, I'm Fardeen Khan. Pleasure to have your attention. I am a Freelance Software
 
 
 ## Interact here
-<a href="https://www.youtube.com/channel/UCDEMPuIi4RJCc8wnGxO-zEw">
+<a href="https://www.youtube.com/channel/UCDEMPuIi4RJCc8wnGxO-zEw" target="_blank">
   <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/youtube.svg" alt="My Youtube Channel" height="45" width="45">
-</a><a href="https://dev.to/dev_delight">
+</a><a href="https://dev.to/dev_delight" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="My DEV Profile" height="45" width="45">
-</a><a href="https://twitter.com/dev_delight">
+</a><a href="https://twitter.com/dev_delight" target="_blank">
   <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/twitter.svg" alt="MyT witter Profile" height="45" width="45">
-</a><a href="https://medium.com/@khanfardeen9983">
+</a><a href="https://medium.com/@khanfardeen9983" target="_blank">
   <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/medium-seeklogo.com.svg" alt="My Medium Profile" height="45" width="45">
-</a><a href="https://www.linkedin.com/in/fardeenkhan9983/">
+</a><a href="https://www.linkedin.com/in/fardeenkhan9983/" target="_blank">
   <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/linkedin.svg" alt="My LinkedIn Profile" height="45" width="45">
 </a>
 
