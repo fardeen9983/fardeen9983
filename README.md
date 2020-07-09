@@ -13,27 +13,26 @@ Hi, I'm Fardeen Khan. Pleasure to have your attention. I am a Freelance Software
 
 
 ## Interact here
-* Twitter: https://twitter.com/dev_delight
-* LinkedIn: https://www.linkedin.com/in/fardeenkhan9983/
-* Medium: https://medium.com/@khanfardeen9983
-* YouTube: https://www.youtube.com/channel/UCDEMPuIi4RJCc8wnGxO-zEw
+* LinkedIn: 
+* YouTube: 
 
-<a href="https://dev.to/dev_delight">
+
+<a href="https://www.youtube.com/channel/UCDEMPuIi4RJCc8wnGxO-zEw">
+  <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/youtube.svg" alt="My Youtube Channel" height="45" width="45">
+</a><a href="https://dev.to/dev_delight">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="My DEV Profile" height="45" width="45">
+</a><a href="https://twitter.com/dev_delight">
+  <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/twitter.svg" alt="MyT witter Profile" height="45" width="45">
 </a><a href="https://medium.com/@khanfardeen9983">
   <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/medium-seeklogo.com.svg" alt="My Medium Profile" height="45" width="45">
-</a><a href="https://twitter.com/dev_delight">
-  <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/twitter.svg" alt="MyTwitter Profile" height="45" width="45">
+</a><a href="https://www.linkedin.com/in/fardeenkhan9983/">
+  <img src="https://raw.githubusercontent.com/fardeen9983/fardeen9983/master/linkedin.svg" alt="My LinkedIn Profile" height="45" width="45">
 </a>
-
-
 
 
 ## Get your work done
 * Upwork: https://www.upwork.com/freelancers/~011e55e5ff37c49b27
 * Mail: [developer@redflagstudio.online](mailto:developer@redflagstudio.online)
-
-## Badges
 
 
 
