@@ -28,7 +28,7 @@ Hi, I'm Fardeen Khan. Pleasure to have your attention. I am a Freelance Software
 
 ## Get your work done
 * Upwork: https://www.upwork.com/freelancers/~011e55e5ff37c49b27
-* Mail: [developer@redflagstudio.online](mailto:developer@redflagstudio.online)
+* Mail: [contact@codepanthers.com](mailto:contact@codepanthers.com)
 
 
 
